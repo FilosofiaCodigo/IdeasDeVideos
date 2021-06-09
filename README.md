@@ -4,21 +4,16 @@
 
 ## Deployers
 
-- Remix
-- Truffle
-- OpenZeppelin
-- Hardhat
+- scaffold-eth https://youtu.be/KBI_RBESluo
+- Remix https://youtu.be/rOLLV3aRgb4
+- Truffle https://youtu.be/w6vQ0o7e0Cg
+- Hardhat https://youtu.be/uaRsemvYkfo
 
 ## Frontend
 
 - Web3
 - ethers.js
 - Drizzle
-
-## Suites
-
-- Truffle
-- scaffold-eth
 
 # Code
 
@@ -27,6 +22,7 @@
 - ERC20
 - ERC721
 - ERC1155
+- ERC777 https://youtu.be/S9nzL_l6D_E
 
 ## Tokens in depth
 
